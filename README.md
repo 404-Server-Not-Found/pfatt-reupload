@@ -1,3 +1,5 @@
+REUPLOAD. WORK IN PROGRESS.
+
 About
 This repository includes my notes on enabling a true bridge mode setup with AT&T U-Verse and pfSense. This method utilizes netgraph which is a graph based kernel networking subsystem of FreeBSD. This low-level solution was required to account for the unique issues surrounding bridging 802.1X traffic and tagging a VLAN with an id of 0. I've tested and confirmed this setup works with AT&T U-Verse Internet on the ARRIS NVG589, NVG599 and BGW210-700 residential gateways (probably others too). For Pace 5268AC, see issue #5.
 
