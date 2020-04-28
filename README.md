@@ -1,3 +1,6 @@
+# REUPLOAD
+Hi, this is a reupload of user Aus' guide to achieving true bridgemode with an AT&T Residential Gateway and pfSense. I (Martyfree123) take no credit for this guide whatsoever. I was just sad to see it taken down, it's a very well layed out guide. Thanks to user briangordon for the files!
+
 # About
 
 This repository includes my notes on enabling a true bridge mode setup with AT&T U-Verse and pfSense. This method utilizes [netgraph](https://www.freebsd.org/cgi/man.cgi?netgraph(4)) which is a graph based kernel networking subsystem of FreeBSD. This low-level solution was required to account for the unique issues surrounding bridging 802.1X traffic and tagging a VLAN with an id of 0. I've tested and confirmed this setup works with AT&T U-Verse Internet on the ARRIS NVG589, NVG599 and BGW210-700 residential gateways (probably others too). For Pace 5268AC, see [issue #5](https://github.com/aus/pfatt/issues/5). 
