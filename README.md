@@ -1,5 +1,5 @@
 # REUPLOAD
-Hi, this is a reupload of user Aus' guide to achieving true bridgemode with an AT&T Residential Gateway and pfSense. I (Martyfree123) take no credit for this guide whatsoever. I was just sad to see it taken down, it's a very well layed out guide. Thanks to user briangordon for the files!
+Hi, this is a reupload of user Aus' guide to achieving true bridgemode with an AT&T Residential Gateway and pfSense. I [Martyfree123](https://github.com/Martyfree123) take no credit for this guide whatsoever. I was just sad to see it taken down, it's a very well layed out guide. Thanks to user [briangordon](https://github.com/briangordon) for the files!
 
 # About
 
